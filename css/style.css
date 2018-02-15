@@ -15,7 +15,7 @@
 
 body {
   background: #fff;
-  font-family:'B Yekan','Open Sans', Arial, sans-serif;
+  font-family:'B Yekan';/*,'Open Sans', Arial, sans-serif;*/
   color:#333;
   line-height:1.6em;
 }
@@ -27,7 +27,7 @@ h4,
 h5,
 h6 {
     font-weight:500; 
-    font-family:'B Yekan','Open Sans', Arial, sans-serif;
+    font-family:'B Yekan';/*,'Open Sans', Arial, sans-serif;*/
 	color:#333;
 }
 
